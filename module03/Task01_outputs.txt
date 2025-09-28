@@ -1,0 +1,12 @@
+1. 21.5     correct
+2. 4        correct
+3. 64	    correct
+4. 4        correct
+5. 64       correct
+6. 17       correct
+7. 1        correct
+8. True     correct
+9. False    correct
+10. True    correct
+11. False   correct
+12. True    correct

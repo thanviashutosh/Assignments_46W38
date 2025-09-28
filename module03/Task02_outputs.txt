@@ -1,0 +1,6 @@
+#for x=3
+output is 13 26 2
+
+#for x=30
+
+output is 30 30 0
